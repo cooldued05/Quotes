@@ -13,11 +13,11 @@
     "auther": "unkown3"
 },
     {
-    text: "quote4",
-    auther: "unkown4"
+    "text": "quote4",
+    "auther": "unkown4"
 },
     {
-    text: "quote5",
-    auther: "unkown5"
+    "text": "quote5",
+    "auther": "unkown5"
 }
     ]
