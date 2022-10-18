@@ -17,11 +17,11 @@
     "author": "Eleanor Roosevelt"
 },
     {
-    "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success,
+    "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success",
     "author": "James Cameron"
 },
     {
-    "text": "Life is what happens when you're busy making other plans,
+    "text": "Life is what happens when you're busy making other plans",
     "author": "John Lennon"
 }
     ]
