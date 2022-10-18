@@ -2,22 +2,22 @@
 {
     
     "text": "quote1",
-    "auther": "unkown1"
+    "author": "unkown1"
 },
   {
     "text": "quote2",
-    "auther": "unkown2"
+    "author": "unkown2"
 },
     {
     "text": "quote3",
-    "auther": "unkown3"
+    "author": "unkown3"
 },
     {
     "text": "quote4",
-    "auther": "unkown4"
+    "author": "unkown4"
 },
     {
     "text": "quote5",
-    "auther": "unkown5"
+    "author": "unkown5"
 }
     ]
