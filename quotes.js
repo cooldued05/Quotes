@@ -24,4 +24,9 @@
     "text": "Life is what happens when you're busy making other plans",
     "author": "John Lennon"
 }
+    ,
+    {
+    "text": "Be yourself; everyone else is already taken",
+    "author": "Oscar Wilde"
+}
     ]
